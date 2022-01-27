@@ -1,0 +1,9 @@
+.gt-test-tb-cont {
+    padding: 2rem;
+    background-color: lavender;
+}
+
+.gt-test-tb-cont .card {
+    padding: 2rem;
+    height: 80vh;
+}
